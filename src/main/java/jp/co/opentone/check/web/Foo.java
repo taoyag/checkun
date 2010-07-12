@@ -1,8 +1,7 @@
 package jp.co.opentone.check.web;
 
-import javax.xml.bind.annotation.XmlRootElement;
 
-@XmlRootElement
+//@XmlRootElement
 public class Foo {
 
     public String name;

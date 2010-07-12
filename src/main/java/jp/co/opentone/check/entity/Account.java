@@ -2,9 +2,6 @@ package jp.co.opentone.check.entity;
 
 import java.io.Serializable;
 
-import javax.xml.bind.annotation.XmlRootElement;
-
-@XmlRootElement
 public class Account implements Serializable {
 
     /**
